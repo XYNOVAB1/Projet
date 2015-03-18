@@ -1,0 +1,24 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M    (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\PC\Perso\Ingésup\Cours\Labos\Games\Projet Mini-RPG\unity\Xynova\Xynova_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\PC\Perso\Ingésup\Cours\Labos\Games\Projet Mini-RPG\unity\Xynova\Xynova_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\PC\Perso\Ingésup\Cours\Labos\Games\Projet Mini-RPG\unity\Xynova\Xynova_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\PC\Perso\Ingésup\Cours\Labos\Games\Projet Mini-RPG\unity\Xynova\Xynova_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\PC\Perso\Ingésup\Cours\Labos\Games\Projet Mini-RPG\unity\Xynova\Xynova_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\PC\Perso\Ingésup\Cours\Labos\Games\Projet Mini-RPG\unity\Xynova\Xynova_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.730922 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 11.708323 ms (FindLiveObjects: 0.023459 ms CreateObjectMapping: 0.022360 ms MarkObjects: 0.140392 ms  DeleteObjects: 9.519222 ms)
+

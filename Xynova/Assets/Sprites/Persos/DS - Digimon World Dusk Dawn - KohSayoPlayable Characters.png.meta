@@ -1,0 +1,3050 @@
+fileFormatVersion: 2
+guid: 9b1dd52452e7c1c46973d466896a34f6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_0
+    21300002: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_1
+    21300004: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_2
+    21300006: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_3
+    21300008: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_4
+    21300010: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_5
+    21300012: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_6
+    21300014: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_7
+    21300016: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_8
+    21300018: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_9
+    21300020: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_10
+    21300022: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_11
+    21300024: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_12
+    21300026: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_13
+    21300028: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_14
+    21300030: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_15
+    21300032: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_16
+    21300034: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_17
+    21300036: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_18
+    21300038: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_19
+    21300040: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_20
+    21300042: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_21
+    21300044: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_22
+    21300046: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_23
+    21300048: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_24
+    21300050: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_25
+    21300052: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_26
+    21300054: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_27
+    21300056: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_28
+    21300058: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_29
+    21300060: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_30
+    21300062: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_31
+    21300064: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_32
+    21300066: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_33
+    21300068: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_34
+    21300070: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_35
+    21300072: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_36
+    21300074: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_37
+    21300076: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_38
+    21300078: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_39
+    21300080: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_40
+    21300082: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_41
+    21300084: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_42
+    21300086: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_43
+    21300088: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_44
+    21300090: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_45
+    21300092: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_46
+    21300094: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_47
+    21300096: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_48
+    21300098: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_49
+    21300100: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_50
+    21300102: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_51
+    21300104: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_52
+    21300106: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_53
+    21300108: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_54
+    21300110: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_55
+    21300112: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_56
+    21300114: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_57
+    21300116: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_58
+    21300118: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_59
+    21300120: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_60
+    21300122: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_61
+    21300124: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_62
+    21300126: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_63
+    21300128: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_64
+    21300130: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_65
+    21300132: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_66
+    21300134: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_67
+    21300136: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_68
+    21300138: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_69
+    21300140: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_70
+    21300142: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_71
+    21300144: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_72
+    21300146: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_73
+    21300148: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_74
+    21300150: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_75
+    21300152: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_76
+    21300154: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_77
+    21300156: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_78
+    21300158: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_79
+    21300160: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_80
+    21300162: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_81
+    21300164: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_82
+    21300166: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_83
+    21300168: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_84
+    21300170: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_85
+    21300172: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_86
+    21300174: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_87
+    21300176: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_88
+    21300178: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_89
+    21300180: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_90
+    21300182: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_91
+    21300184: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_92
+    21300186: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_93
+    21300188: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_94
+    21300190: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_95
+    21300192: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_96
+    21300194: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_97
+    21300196: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_98
+    21300198: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_99
+    21300200: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_100
+    21300202: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_101
+    21300204: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_102
+    21300206: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_103
+    21300208: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_104
+    21300210: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_105
+    21300212: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_106
+    21300214: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_107
+    21300216: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_108
+    21300218: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_109
+    21300220: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_110
+    21300222: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_111
+    21300224: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_112
+    21300226: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_113
+    21300228: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_114
+    21300230: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_115
+    21300232: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_116
+    21300234: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_117
+    21300236: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_118
+    21300238: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_119
+    21300240: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_120
+    21300242: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_121
+    21300244: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_122
+    21300246: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_123
+    21300248: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_124
+    21300250: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_125
+    21300252: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_126
+    21300254: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_127
+    21300256: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_128
+    21300258: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_129
+    21300260: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_130
+    21300262: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_131
+    21300264: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_132
+    21300266: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_133
+    21300268: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_134
+    21300270: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_135
+    21300272: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_136
+    21300274: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_137
+    21300276: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_138
+    21300278: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_139
+    21300280: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_140
+    21300282: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_141
+    21300284: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_142
+    21300286: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_143
+    21300288: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_144
+    21300290: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_145
+    21300292: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_146
+    21300294: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_147
+    21300296: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_148
+    21300298: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_149
+    21300300: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_150
+    21300302: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_151
+    21300304: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_152
+    21300306: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_153
+    21300308: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_154
+    21300310: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_155
+    21300312: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_156
+    21300314: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_157
+    21300316: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_158
+    21300318: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_159
+    21300320: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_160
+    21300322: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_161
+    21300324: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_162
+    21300326: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_163
+    21300328: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_164
+    21300330: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_165
+    21300332: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_166
+    21300334: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_167
+    21300336: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_168
+    21300338: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_169
+    21300340: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_170
+    21300342: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_171
+    21300344: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_172
+    21300346: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_173
+    21300348: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_174
+    21300350: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_175
+    21300352: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_176
+    21300354: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_177
+    21300356: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_178
+    21300358: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_179
+    21300360: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_180
+    21300362: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_181
+    21300364: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_182
+    21300366: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_183
+    21300368: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_184
+    21300370: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_185
+    21300372: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_186
+    21300374: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_187
+    21300376: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_188
+    21300378: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_189
+    21300380: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_190
+    21300382: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_191
+    21300384: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_192
+    21300386: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_193
+    21300388: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_194
+    21300390: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_195
+    21300392: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_196
+    21300394: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_197
+    21300396: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_198
+    21300398: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_199
+    21300400: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_200
+    21300402: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_201
+    21300404: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_202
+    21300406: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_203
+    21300408: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_204
+    21300410: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_205
+    21300412: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_206
+    21300414: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_207
+    21300416: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_208
+    21300418: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_209
+    21300420: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_210
+    21300422: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_211
+    21300424: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_212
+    21300426: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_213
+    21300428: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_214
+    21300430: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_215
+    21300432: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_216
+    21300434: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_217
+    21300436: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_218
+    21300438: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_219
+    21300440: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_220
+    21300442: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_221
+    21300444: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_222
+    21300446: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_223
+    21300448: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_224
+    21300450: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_225
+    21300452: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_226
+    21300454: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_227
+    21300456: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_228
+    21300458: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_229
+    21300460: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_230
+    21300462: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_231
+    21300464: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_232
+    21300466: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_233
+    21300468: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_234
+    21300470: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_235
+    21300472: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_236
+    21300474: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_237
+    21300476: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_238
+    21300478: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_239
+    21300480: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_240
+    21300482: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_241
+    21300484: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_242
+    21300486: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_243
+    21300488: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_244
+    21300490: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_245
+    21300492: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_246
+    21300494: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_247
+    21300496: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_248
+    21300498: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_249
+    21300500: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_250
+    21300502: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_251
+    21300504: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_252
+    21300506: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_253
+    21300508: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_254
+    21300510: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_255
+    21300512: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_256
+    21300514: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_257
+    21300516: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_258
+    21300518: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_259
+    21300520: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_260
+    21300522: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_261
+    21300524: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_262
+    21300526: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_263
+    21300528: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_264
+    21300530: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_265
+    21300532: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_266
+    21300534: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_267
+    21300536: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_268
+    21300538: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_269
+    21300540: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_270
+    21300542: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_271
+    21300544: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_272
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 442
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 409
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 409
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 409
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 409
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 409
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_27
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 409
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_34
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_36
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_37
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 409
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_39
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 371
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_53
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 371
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_55
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_56
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 371
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_57
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_58
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_60
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 371
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_63
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 333
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_64
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 333
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 333
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 333
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 333
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 333
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_70
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 333
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_72
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 333
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_73
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 333
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_74
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_75
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_76
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 333
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_78
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 333
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_79
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 333
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_81
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 333
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_82
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_83
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 333
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 295
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_88
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 295
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 295
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 295
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_91
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 295
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_93
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 295
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_94
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_95
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 295
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 295
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_97
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 295
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_98
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_99
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 295
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_100
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_101
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_102
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 295
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_103
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 295
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_105
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 257
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 257
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_108
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 257
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_109
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 257
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_110
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 257
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_111
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 257
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 257
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_113
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 257
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_114
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 257
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_115
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 257
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_116
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 257
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_117
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 257
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_118
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 257
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_119
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_120
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 257
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_121
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 257
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_122
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 257
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_123
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 257
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_124
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 257
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_125
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 257
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_126
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 257
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_127
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 257
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_128
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 257
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_129
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 257
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 220
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_131
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_132
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_133
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 221
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_134
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 221
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_135
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 221
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_137
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_138
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_139
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_140
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_142
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_143
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_144
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_145
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 185
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_146
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_147
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_148
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_149
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_150
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_151
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_152
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_153
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_154
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_155
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 185
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_156
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 185
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_157
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_158
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_159
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_160
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_161
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_162
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_163
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_164
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_165
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 185
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_166
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_167
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_168
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_169
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_170
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_171
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 185
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_172
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_173
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_174
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_175
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 147
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_176
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_177
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_178
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_179
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_180
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_181
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_182
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_183
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_184
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_185
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_186
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_187
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 147
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_188
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_189
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_190
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 147
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_191
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_192
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 147
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_193
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_194
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_195
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 147
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_197
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_198
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_199
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_200
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 109
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_201
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 109
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_202
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 109
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_203
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 109
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_204
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_205
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 109
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_206
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 109
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_207
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 109
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_208
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_209
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_210
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_211
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 109
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_212
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 109
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_213
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 109
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_214
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_215
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 109
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_216
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_217
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 109
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_218
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_219
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_220
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_221
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 71
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_222
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_223
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_224
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_225
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_226
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_227
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_228
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_229
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_230
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_231
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 71
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_232
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_233
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_234
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_235
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_236
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 71
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_237
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 71
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_238
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_239
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_240
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_241
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 33
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_242
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 33
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_243
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_244
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 33
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_245
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 33
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_246
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_247
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 33
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_248
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 33
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_249
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 33
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_250
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 33
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_251
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 33
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_252
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 33
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_253
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 33
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_254
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 33
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_255
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 33
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_256
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 33
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_257
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 33
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_258
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 33
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_259
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 33
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_260
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 33
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_261
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_262
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_263
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_264
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 22
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_265
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 23
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_266
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 23
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_267
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 12
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_268
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 12
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_269
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 12
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_270
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_271
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Digimon World Dusk Dawn - KohSayoPlayable Characters_272
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
